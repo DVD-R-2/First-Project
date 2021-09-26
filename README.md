@@ -1,2 +1,2 @@
 # First-Project
-My first GitHub repository
+Acesta este primul meu proiect in GitHub! 😀
